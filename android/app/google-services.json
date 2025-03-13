@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430426791205",
+    "project_id": "bookonline-3da95",
+    "storage_bucket": "bookonline-3da95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430426791205:android:15c1378f38dd5de2380ecc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClwKuYSfwu5qCKCWX-6vkIn-tLkrSfdb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
